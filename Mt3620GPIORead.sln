@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mt3620GPIORead", "Mt3620GPIORead\Mt3620GPIORead.vcxproj", "{B20E01C7-E3BF-41DF-B933-CA83692AE7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20E01C7-E3BF-41DF-B933-CA83692AE7AE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B20E01C7-E3BF-41DF-B933-CA83692AE7AE}.Debug|ARM.Build.0 = Debug|ARM
+		{B20E01C7-E3BF-41DF-B933-CA83692AE7AE}.Release|ARM.ActiveCfg = Release|ARM
+		{B20E01C7-E3BF-41DF-B933-CA83692AE7AE}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDF9A84-A1AC-432E-A815-D6FDC47EFAD0}
+	EndGlobalSection
+EndGlobal

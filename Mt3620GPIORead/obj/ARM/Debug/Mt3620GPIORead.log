@@ -1,0 +1,28 @@
+﻿  Azure Sphere Utility version 18.11.3.20146
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Friday, 01 February 2019 01:05:21 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         bcf67bf7-8551-42d1-b8e4-e48c93334176
+      Image ID:             61ca2dc9-2e44-4917-8d36-cb6b195fd693
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           Mt3620GPIORead
+      Built On (UTC):       01/02/2019 01:05:22
+      Built On (Local):     31/01/2019 23:05:22
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 1
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: c:\Users\walte\source\repos\Mt3620GPIORead\Mt3620GPIORead\bin\ARM\Debug\Mt3620GPIORead.imagepackage 
+  Command completed successfully in 00:00:00.6581060. 

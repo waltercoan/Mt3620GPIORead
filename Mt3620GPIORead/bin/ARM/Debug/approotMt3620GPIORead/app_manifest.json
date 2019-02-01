@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"Mt3620GPIORead","ComponentId":"bcf67bf7-8551-42d1-b8e4-e48c93334176","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"AllowedConnections":[],"AllowedTcpServerPorts":[],"AllowedUdpServerPorts":[],"Gpio":[5],"Uart":[],"WifiConfig":false,"NetworkConfig":false,"SystemTime":false},"TargetApplicationRuntimeVersion":1}
